@@ -2,6 +2,10 @@
     font-family: BuiltTitlingRg-Regular;
     src: url(../fonte/builttitlingrg.ttf);
 }
+@font-face {
+    font-family: CaviarDreams;
+    src: url(../fonte/CaviarDreams.ttf);
+}
 body{
     background-image: linear-gradient(to left, rgb(3, 215, 169), rgb(66, 61, 200));
     margin: 10px;
@@ -28,6 +32,10 @@ h3{
     font-size: 4vh;
 }
 p{
+    font-family: "CaviarDreams";
+    font-size: 3vh;
+    color: white;
+    text-shadow: 2px 2px 5px black;
     margin: 50px;
 }
 #slider{
@@ -40,7 +48,4 @@ p{
 }
 .d-block{
     border: 1.5px solid white;
-}
-.texto{
-    text-align: center;
 }
