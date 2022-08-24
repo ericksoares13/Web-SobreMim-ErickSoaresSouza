@@ -2,6 +2,10 @@
     font-family: BuiltTitlingRg-Regular;
     src: url(../fonte/builttitlingrg.ttf);
 }
+body{
+    background-image: linear-gradient(to left, rgb(3, 215, 169), rgb(66, 61, 200));
+    margin: 10px;
+}
 h1{
     font-family: "BuiltTitlingRg-Regular";
     font-size: 10vh;
@@ -25,10 +29,6 @@ h3{
 }
 p{
     margin: 50px;
-}
-body{
-    background-image: linear-gradient(to left, rgb(3, 215, 169), rgb(66, 61, 200));
-    margin: 10px;
 }
 #slider{
     margin-top: 0;
