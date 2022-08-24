@@ -31,6 +31,13 @@ h3{
     text-shadow: 2px 2px 5px black;
     font-size: 4vh;
 }
+h4{
+    font-family: "BuiltTitlingRg-Regular";
+    font-size: 10vh;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+}
 p{
     font-family: "CaviarDreams";
     font-size: 3vh;
