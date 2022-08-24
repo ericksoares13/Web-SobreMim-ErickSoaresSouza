@@ -1,0 +1,46 @@
+@font-face {
+    font-family: BuiltTitlingRg-Regular;
+    src: url(../fonte/builttitlingrg.ttf);
+}
+h1{
+    font-family: "BuiltTitlingRg-Regular";
+    font-size: 10vh;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+    padding-top: 2%;
+}
+h2{
+    font-family: "BuiltTitlingRg-Regular";
+    font-size: 5vh;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+    margin: 50px;
+}
+h3{
+    font-family: "BuiltTitlingRg-Regular";
+    color: white;
+    text-shadow: 2px 2px 5px black;
+    font-size: 4vh;
+}
+p{
+    margin: 50px;
+}
+body{
+    background-image: linear-gradient(to left, rgb(3, 215, 169), rgb(66, 61, 200));
+    margin: 10px;
+}
+#slider{
+    margin-top: 0;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 1.5%;
+}
+.d-block{
+    border: 1.5px solid white;
+}
+.texto{
+    text-align: center;
+}
